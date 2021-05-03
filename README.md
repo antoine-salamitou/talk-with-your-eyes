@@ -16,5 +16,5 @@ if the face movement occurs during [A-M] => [A-F] / [F-M] etc
 until a letter is formed, then a word
 
 We tried different ways of detecting a movement (jaw movement, closing the eyes, blinking...). Last attempt was on test_jaw.py 
-It was very fun for me and for him, unfortuntely he did not have enough control on his movements for the software to be effective.
+
 
