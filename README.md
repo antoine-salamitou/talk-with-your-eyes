@@ -7,8 +7,7 @@ of other parts of the body (jaw, ...). The people suffering from this disease ke
 
 To communicate with people suffering from this disease, we scroll the alphabet and they blink when the letter is right, in order to complete a word letter by letter.
 
-Since I had a close relationship with someone I used to visit a couple of times a week (play chess, reading..), I imagined using face recognition to allow him to form words with 
-his eyes movements.
+I imagined using face recognition to allow a person suffering from this disease to form words with his eyes movements.
 The software basically uses a binary search in the alphabet and displays on the screen : 
 [A-M] for two seconds then [N-Z] then [A-M] again
 until a face movement is detected
